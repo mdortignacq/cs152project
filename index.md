@@ -12,7 +12,7 @@ Transition paragraph: This paper evaluates the data, neural network design, resu
         
 Details paragraph: Using outputs from the Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) algorithm, we determined patterns in the COMPAS scores assigned to defendent and tracked the accuracy of these scores with the recidivism status of the score's recipient.
 
-Assessment paragraph: Our results find biases in a number of risk assesment algorithms used for the criminal justice system...
+Assessment paragraph: Our results find biases in a number of risk assesment algorithms used for the criminal justice system.
 
 Ethical Implications:  Is it possible to create neural networks that resist the unjust biases of modern society? Do algorithms even have a place in determining justice, or are these decisions best left to human minds capable of empathy and compassion despite their biases?
 
