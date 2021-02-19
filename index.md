@@ -10,15 +10,9 @@ Background paragraph: Although these algorithms are an attempt to minimize perso
         
 Transition paragraph: This paper evaluates the data, neural network design, results, and real-world applications of algorithms developed for risk assesment in the criminal justice space.
         
-Details paragraph: What technical challenges did you have
-        to overcome and what kinds of validation did you perform?
+Details paragraph: Using outputs from the Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) algorithm, we determined patterns in the COMPAS scores assigned to defendent and tracked the accuracy of these scores with the recidivism status of the score's recipient.
 
-Assessment paragraph: Assess your results and briefly state
-        the broadly interesting conclusions that these results
-        support. This may only take a couple of sentences. I
-        usually then follow these sentences by an optional
-        overview of the structure of the paper with interleaved
-        section callouts.
+Assessment paragraph: Our results find biases in a number of risk assesment algorithms used for the criminal justice system...
 
 Ethical Implications:  Is it possible to create neural networks that resist the unjust biases of modern society? Do algorithms even have a place in determining justice, or are these decisions best left to human minds capable of empathy and compassion despite their biases?
 
