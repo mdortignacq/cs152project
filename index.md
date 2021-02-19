@@ -2,15 +2,39 @@
 # Risk Assessment Algorithms in the Criminal Justice System
 ### Application Project
 
-**I’m interested in doing an application style project that takes a text file of recipes and/or ingredient lists, and uses a neural network to determine what the recipe makes.**
+**Khadija & Maddy**
 
-There are multiple difficulty and extension options that I have come up with. The most likely to succeed would be inputting entire recipes (ingredients, cooking techniques, oven temperature, etc.) within a food category such as baked goods. Options to extend the difficulty for the neural network include inputting only the ingredients and their quantities and/or expanding the types of dishes included. How fine-grained the identification parameters are could also be adjusted to make the problem harder or easier. Is “cake” a good enough answer or does the neural network need to specify “gooey butter cake”?
+Introductory paragraph: Very briefly: What is the problem and
+        why is it relevant to the audience attending *THIS CONFERENCE*?
+        Moreover, why is the problem hard, and what is your solution?
+        You must be brief here. This forces you to boil down your
+        contribution to its bare essence and communicate it directly.
+
+Background paragraph: Elaborate on why the problem is hard,
+        critically examining prior work, trying to tease out one
+        or two central shortcomings that your solution overcomes.
+        
+Transition paragraph: What keen insight did you apply
+        to overcome the shortcomings of other approaches?
+        Structure this paragraph like a syllogism:
+        Whereas P and P => Q, infer Q.
+        
+Details paragraph: What technical challenges did you have
+        to overcome and what kinds of validation did you perform?
+
+Assessment paragraph: Assess your results and briefly state
+        the broadly interesting conclusions that these results
+        support. This may only take a couple of sentences. I
+        usually then follow these sentences by an optional
+        overview of the structure of the paper with interleaved
+        section callouts.
+
+Ethical Implications:
 
 
+Possible datasets:
 
-Applicable datasets already exist:
+- [COMPAS Algorithm](https://www.kaggle.com/danofer/compass?select=compas-scores-raw.csv) 
+- [NYS Recidivism](https://www.kaggle.com/new-york-state/nys-recidivism-beginning-2008)
 
-- [Ingredients only](https://www.kaggle.com/kaggle/recipe-ingredients-dataset?select=train.json) 
-- [Whole recipes](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions)
-
-![Image](https://www.thespruceeats.com/thmb/Kco8yJVmHa7sh0z5sjxUeO7_Cwo=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/australian-pavlova-recipe-256101-hero-01-f0bd5d2a3f0b4ec383fe8d16b8600bc9.jpg)
+![Image](https://www.mercy.edu/sites/default/files/styles/full_width_768px/public/2020-07/criminal-justice-307-advanced-criminal-law_822467_large.jpeg?itok=erDRPUCQ)
