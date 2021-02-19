@@ -1,17 +1,14 @@
 
 # Risk Assessment Algorithms in the Criminal Justice System
-### Application Project
+### Ethical Investigation
 
 **Khadija & Maddy**
 
-Introductory paragraph: Risk assessment algorithms are a tool used by the courts, usually judges and prosecutors, to predict the probablity of a defendent repeating criminal activity based on a selection of individual attributes(demographics, criminal history, etc.).
+Introductory paragraph: Risk assessment algorithms are a tool used by the courts, usually judges and prosecutors, that implement neural networks to predict the probablity of a defendent repeating criminal activity based on a selection of individual attributes (demographics, criminal history, etc.).
 
 Background paragraph: Although these algorithms are an attempt to minimize personal and institutional bias in the judicial system, the algorithms are based on historical recidivism data that *has* been influenced by unequal institutional systems. When the inputs to an algorithm are biased the outputs are sure to display the same biases regardless of the intent of the designers or users.
         
-Transition paragraph: What keen insight did you apply
-        to overcome the shortcomings of other approaches?
-        Structure this paragraph like a syllogism:
-        Whereas P and P => Q, infer Q.
+Transition paragraph: This paper evaluates the data, neural network design, results, and real-world applications of algorithms developed for risk assesment in the criminal justice space.
         
 Details paragraph: What technical challenges did you have
         to overcome and what kinds of validation did you perform?
@@ -27,7 +24,6 @@ Ethical Implications:
 
 
 Possible datasets:
-
 - [COMPAS Algorithm](https://www.kaggle.com/danofer/compass?select=compas-scores-raw.csv) 
 - [NYS Recidivism](https://www.kaggle.com/new-york-state/nys-recidivism-beginning-2008)
 
