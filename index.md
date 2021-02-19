@@ -4,15 +4,9 @@
 
 **Khadija & Maddy**
 
-Introductory paragraph: Very briefly: What is the problem and
-        why is it relevant to the audience attending *THIS CONFERENCE*?
-        Moreover, why is the problem hard, and what is your solution?
-        You must be brief here. This forces you to boil down your
-        contribution to its bare essence and communicate it directly.
+Introductory paragraph: Risk assessment algorithms are a tool used by the courts, usually judges and prosecutors, to predict the probablity of a defendent repeating criminal activity based on a selection of individual attributes(demographics, criminal history, etc.).
 
-Background paragraph: Elaborate on why the problem is hard,
-        critically examining prior work, trying to tease out one
-        or two central shortcomings that your solution overcomes.
+Background paragraph: Although these algorithms are an attempt to minimize personal and institutional bias in the judicial system, the algorithms are based on historical recidivism data that *has* been influenced by unequal institutional systems. When the inputs to an algorithm are biased the outputs are sure to display the same biases regardless of the intent of the designers or users.
         
 Transition paragraph: What keen insight did you apply
         to overcome the shortcomings of other approaches?
