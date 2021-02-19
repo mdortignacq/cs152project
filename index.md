@@ -20,7 +20,7 @@ Assessment paragraph: Assess your results and briefly state
         overview of the structure of the paper with interleaved
         section callouts.
 
-Ethical Implications:
+Ethical Implications:  Is it possible to create neural networks that resist the unjust biases of modern society? Do algorithms even have a place in determining justice, or are these decisions best left to human minds capable of empathy and compassion despite their biases?
 
 
 Possible datasets:
