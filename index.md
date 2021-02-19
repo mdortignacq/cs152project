@@ -1,5 +1,5 @@
 
-# Recipe Identifier
+# Risk Assessment Algorithms in the Criminal Justice System
 ### Application Project
 
 **I’m interested in doing an application style project that takes a text file of recipes and/or ingredient lists, and uses a neural network to determine what the recipe makes.**
