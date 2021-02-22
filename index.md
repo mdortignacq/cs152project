@@ -22,12 +22,17 @@ Possible datasets:
 - [NYS Recidivism](https://www.kaggle.com/new-york-state/nys-recidivism-beginning-2008)
 
 
+
+
 **Lit Review**
 
 Sources:
-- [source1 name](url) 
-- [source2 name](url)
-- [source3 name](url) 
-- [source4 name](url)
+- [source1 name](url): 1-3 sentence summary...
+- [source2 name](url): 1-3 sentence summary...
+- [source3 name](url): 1-3 sentence summary...
+- [source4 name](url): 1-3 sentence summary...
+- [source5 name](url): 1-3 sentence summary...
+
+State-of-the-art in Risk Assessment Algorithms: ...
 
 ![Image](https://www.mercy.edu/sites/default/files/styles/full_width_768px/public/2020-07/criminal-justice-307-advanced-criminal-law_822467_large.jpeg?itok=erDRPUCQ)
