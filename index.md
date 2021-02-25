@@ -26,13 +26,18 @@ Possible datasets:
 
 **Lit Review**
 
-Sources:
-- [source1 name](url): 1-3 sentence summary...
-- [source2 name](url): 1-3 sentence summary...
-- [source3 name](url): 1-3 sentence summary...
-- [source4 name](url): 1-3 sentence summary...
-- [source5 name](url): 1-3 sentence summary...
+- [Predicting Enemies by Ashley S. Deeks] (https://www.jstor.org/stable/j.ctvw04b7q.14): This is a journal article detailing the different ways in which the predictive algorithms are used in the criminal justice system and how the military industrial complex is in works to adopt these tactics in their work. This article's goal is to show why it would be flawed to move forward as such, by showing how it is not working properly within the criminal justice system (using predictive policing and risk assessment algorithms as examples).
 
-State-of-the-art in Risk Assessment Algorithms: ...
+- [Predictive Algorithms and Criminal Sentencing by Angele Christi](https://www.jstor.org/stable/j.ctvw04b7q.14): This article analyzes how the criminal justice system relies on algorithms to determine sentences and criminality of people and areas. It does an in depth analysis of the ways in which the judges, prosecutors and such use these algorithms to suit their interests in court.
+
+- [Understanding Risk Assessment instruments in Criminal Justic](https://www.brookings.edu/research/understanding-risk-assessment-instruments-in-criminal-justice/#:~:text=One%20class%20of%20algorithmic%20tools,an%20individual%20before%20their%20trial): This article provides an in depth analysis on risk assessment algorithms such as what tools are being used and what companies are making them. This article leans more towards trying to discuss how these algorithms could be fixed for the better.
+
+- [Report on Algorithmic Risk Assessment Tool in US Criminal Justice System](https://www.partnershiponai.org/report-on-machine-learning-in-risk-assessment-tools-in-the-u-s-criminal-justice-system/): This report is by a nonprofit trying to establish best practices for AI technologies. It reports the serious shortcomings of risk assessment tools in the criminal justice systems through consultations with expert members and reviewing literature on risk assessment tools. It is a very thorough and detailed report.
+
+
+State-of-the-art in Risk Assessment Algorithms: 
+
+- Correctional Offender Management Profiling for Alternative Sanctions (COMPAS): assigns risk scores to defedants using historical data in a process that is partially kept private by the company
+- Public Safety Assessment (PSA): uses a defendant's biographical information and criminal history to assign 3 risk scores: that they will be convicted for a new crime, that they will be convicted for a new violent crime, and that they will fail to appear in court.
 
 ![Image](https://www.mercy.edu/sites/default/files/styles/full_width_768px/public/2020-07/criminal-justice-307-advanced-criminal-law_822467_large.jpeg?itok=erDRPUCQ)
