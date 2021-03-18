@@ -1,6 +1,8 @@
 # Risk Assessment Algorithms in the Criminal Justice System - An Ethical Investigation
 ### Khadija & Maddy
 
+400-800 words total
+
 **Project Update 1**
 
 - This project will use [PyTorch](https://pytorch.org/) to create and test a fully connected neural network using [COMPAS](https://www.kaggle.com/danofer/compass?select=compas-scores-raw.csv) data on Florida defedants' input variables and the COMPAS score they received for either risk of violence, risk of recidivism, or risk of failure to appear. There are several variables used to calculate COMPAS scores so the inputs to our neural network will be 1-dimensional vectors of categorical string values for each individual featured in the database. The data will be trained to produce two distinct types of outputs. First, we will train and test the neural network on the COMPAS score the defendent received to try to approximate the COMPAS algorithm's behaviour. This algorithm will perform a regression to calculate a (semi) continuous score value. Second, we will again train the model using COMPAS scores as the label, but will test the model's accuracy in predicting the actual recidivism outcome after 2 years. This algorithm will perform classification into two categories (recidivized after 2 years or not) based on the likelihood of recidivism as defined by the COMPAS score.
