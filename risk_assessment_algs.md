@@ -2,9 +2,6 @@
 ### Khadija & Maddy
 
 
-
-
-
 **Introduction**
 
 Risk assessment algorithms are a tool used by the courts, usually judges and prosecutors, that utilize neural networks to predict the probability of a defendant repeating criminal activity based on a selection of individual attributes (demographics, criminal history, etc.). Although these algorithms are an attempt to minimize personal and institutional bias in the judicial system, the algorithms are based on historical recidivism data that *has* been influenced by unequal institutional systems. When the inputs to an algorithm are biased the outputs are sure to display the same biases regardless of the intent of the designers or users.
@@ -19,9 +16,8 @@ From these models we were able to determine patterns in the COMPAS scores assign
 
 Work has also been done on how the discretionary use of risk assessment algorithms, rather than a strictly adhered to policy, can add bias to the very proceedings these algorithms were aimed to neutralize. In *Predictive Algorithms and Criminal Sentencing*, Angele Christi analyzes how the criminal justice system relies on algorithms to determine sentences and criminality while performing an in-depth analysis of the ways in which judges and prosecutors use these algorithms to suit their interests in court, utilizing the results when they want and disregarding them when they do not.
 
-The current state-of-the-art in risk assessment algorithms being deployed in policing and criminal justice sectors include the Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) system and the Public Safety Assessment (PSA) system. COMPAS assigns risk scores to defendants using historical data in a process that is partially kept private by the company which precludes a detailed understanding of the underlying mechanisms used to make these life-determining recommendations. The Public Safety Assessment algorithm (PSA) is used by judges to determine pretrial release risk in a method similar to the COMPAS algorithm. A defendant's biographical information and criminal history are used to assign 3 risk scores - that they will be convicted for a new crime, that they will be convicted for a new violent crime, and that they will fail to appear in court.
+Unlike in other areas of AI, issues of bias cannot easily be ascribed to the dataset used for training because the inputs to these algorithms will always be biased. Instead many question whether these algorithms should have been developed in the first place. The current state-of-the-art in risk assessment algorithms being deployed in policing and criminal justice sectors include the Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) system and the Public Safety Assessment (PSA) system. COMPAS assigns risk scores to defendants using historical data in a process that is partially kept private by the company which precludes a detailed understanding of the underlying mechanisms used to make these life-determining recommendations. The Public Safety Assessment algorithm (PSA) is used by judges to determine pretrial release risk in a method similar to the COMPAS algorithm. A defendant's biographical information and criminal history are used to assign 3 risk scores - that they will be convicted for a new crime, that they will be convicted for a new violent crime, and that they will fail to appear in court.
 
-775 words
 
 
 
