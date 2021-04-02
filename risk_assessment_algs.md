@@ -18,6 +18,21 @@ Work has also been done on how the discretionary use of risk assessment algorith
 
 Unlike in other areas of AI, issues of bias cannot easily be ascribed to the dataset used for training because the inputs to these algorithms will always be biased. Instead many question whether these algorithms should have been developed in the first place. The current state-of-the-art in risk assessment algorithms being deployed in policing and criminal justice sectors include the Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) system and the Public Safety Assessment (PSA) system. COMPAS assigns risk scores to defendants using historical data in a process that is partially kept private by the company which precludes a detailed understanding of the underlying mechanisms used to make these life-determining recommendations. The Public Safety Assessment algorithm (PSA) is used by judges to determine pretrial release risk in a method similar to the COMPAS algorithm. A defendant's biographical information and criminal history are used to assign 3 risk scores - that they will be convicted for a new crime, that they will be convicted for a new violent crime, and that they will fail to appear in court.
 
+**Methods Outline**
+
+This project uses PyTorch to create and test a fully connected neural network 
+
+The model is trained and evaluated on a subset of COMPAS data pertaining to real defedants in the Florida court system.
+
+Inputs to the model include demographic and criminal history variables used by the COMPAS algorithm as well as the numerical COMPAS score the defendant ultimately received for either risk of violence, risk of recidivism, or risk of failure to appear. There are several variables used to calculate COMPAS scores so the inputs to our neural network are 1-dimensional vectors of categorical string values for each individual featured in the database. 
+
+The data is trained to produce two distinct types of outputs. 
+
+First, we train and test the neural network on the COMPAS score the defendent received to try to approximate the COMPAS algorithm’s behaviour. This algorithm will perform a regression to calculate a (semi) continuous score value. 
+
+Second, we again train the model using COMPAS scores as the label, but instead test the model’s accuracy in predicting the actual recidivism outcome of each defendant after 2 years. This algorithm performs classification into two categories (recidivized after 2 years or not) based on the likelihood of recidivism as defined by the COMPAS score.
+
+
 
 
 
