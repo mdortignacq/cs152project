@@ -32,10 +32,17 @@ First, we train and test the neural network on the COMPAS score the defendent re
 
 Second, we again train the model using COMPAS scores as the label, but instead test the model’s accuracy in predicting the actual recidivism outcome of each defendant after 2 years. This algorithm performs classification into two categories (recidivized after 2 years or not) based on the likelihood of recidivism as defined by the COMPAS score.
 
+**Discussion Outline**
 
+*not sure if going to continue with the algorithm or focus solely on an ethics investigation
 
+The first model we built was designed to approximate the results of the COMPAS algorithm that is used in judicial systems across the US. The mechanics for the algorithm are kept confidential by the private company that created COMPAS, Equivant, so a sample of inputs and outputs from COMPAS are used to train and test the model. Our design achieved an accuracy of X at predicting COMPAS scores from the same inputs making it a good/bad approximation.
 
+The second model uses the same data and design as the first model, but is instead tested on a set of real recidivism outcomes. By doing this we can attempt to evaluate the effectiveness of COMPAS at predicting recidivism outcomes by way of our approximation model. Outputs from this second model were accurate when compared against real data X% of the time.
 
+This high level of accuracy points to the COMPAS algorithm being a fairly accurate predictor of real-world recidivism outcomes...Our results support COMPAS's prediction capabilities, but do not indicate whether use of the algorithm to decide protocols in the real world is ethically justified...
+
+This low level of accuracy points to the COMPAS algorithm being a poor predictor of real-world recidivism outcomes...Having achieved such a low accuracy agaisnt real world outcomes with our approximation algorithm, calls into question whether the COMPAS algorithm is accuratelly predicting what it claims to...
 
 
 
