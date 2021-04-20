@@ -34,7 +34,7 @@ Second, we again train the model using COMPAS scores as the label, but instead t
 
 **Discussion Outline**
 
-*not sure if going to continue with the algorithm or focus solely on an ethics investigation
+*not sure if going to continue with the algorithm implementation or focus solely on an ethics investigation
 
 The first model we built was designed to approximate the results of the COMPAS algorithm that is used in judicial systems across the US. The mechanics for the algorithm are kept confidential by the private company that created COMPAS, Equivant, so a sample of inputs and outputs from COMPAS are used to train and test the model. Our design achieved an accuracy of X at predicting COMPAS scores from the same inputs making it a good/bad approximation.
 
