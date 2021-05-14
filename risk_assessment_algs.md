@@ -1,7 +1,7 @@
 # Risk Assessment Algorithms in the Criminal Justice System - An Ethical Investigation
 ### Maddy
 
-[Project updates with description of proposed code](https://mdortignacq.github.io/cs152project/)
+[Project updates with description of proposed code in update #1.](https://mdortignacq.github.io/cs152project/)
 
 **1. Introduction**
 
